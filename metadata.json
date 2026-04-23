@@ -1,0 +1,6 @@
+{
+  "name": "Manoj Chatbot Builder",
+  "description": "A node-based LLM and RAG integrated chatbot builder platform inspired by Flowise AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI_CHATBOT_BUILDER", "VISUAL_NODE_FLOW", "RAG_CAPABILITY"]
+}
